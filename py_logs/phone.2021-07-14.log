@@ -8746,3 +8746,448 @@
 2021-07-14 19:58:49 GSD insert 第 1 次 等待 1 秒
 2021-07-14 19:58:50 {"status":"ok","gid":277055,"msg":"添加成功！"}
 
+2021-07-14 20:59:48 开始第 1 次操作
+
+2021-07-14 20:59:48 开始操作号码 【1723446】
+2021-07-14 20:59:52 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 20:59:53 查询号码 【1723446】，返回信息 {"status":"bad","msg":""}
+2021-07-14 20:59:53 查询号码 【1723446】，GSD为【""】
+2021-07-14 20:59:53 bad
+2021-07-14 20:59:55 CHB 1723446?1626267593 第 1 次 等待 1 秒
+2021-07-14 20:59:56 CHB 1723446?1626267593 第 1 次 获取到号码【1723446】GSD
+2021-07-14 20:59:56 获取到号码【1723446】的GSD为【福建-福州】
+2021-07-14 20:59:58 GSD insert 第 1 次 等待 1 秒
+2021-07-14 20:59:59 {"status":"ok","gid":277187,"msg":"添加成功！"}
+2021-07-14 20:59:59 下次操作: 2021-07-14 21:00:12
+
+2021-07-14 21:00:12 开始第 2 次操作
+
+2021-07-14 21:00:12 开始操作号码 【1723447】
+2021-07-14 21:00:18 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:00:19 查询号码 【1723447】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:00:20 查询号码 【1723447】，GSD为【""】
+2021-07-14 21:00:20 bad
+2021-07-14 21:00:21 CHB 1723447?1626267620 第 1 次 等待 1 秒
+2021-07-14 21:00:22 CHB 1723447?1626267620 第 1 次 获取到号码【1723447】GSD
+2021-07-14 21:00:22 获取到号码【1723447】的GSD为【福建-福州】
+2021-07-14 21:00:27 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:00:28 {"status":"ok","gid":277189,"msg":"添加成功！"}
+2021-07-14 21:00:28 下次操作: 2021-07-14 21:00:38
+
+2021-07-14 21:00:38 开始第 3 次操作
+
+2021-07-14 21:00:38 开始操作号码 【1723448】
+2021-07-14 21:00:43 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:00:44 查询号码 【1723448】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:00:44 查询号码 【1723448】，GSD为【""】
+2021-07-14 21:00:44 bad
+2021-07-14 21:00:46 CHB 1723448?1626267644 第 1 次 等待 1 秒
+2021-07-14 21:00:47 CHB 1723448?1626267644 第 1 次 获取到号码【1723448】GSD
+2021-07-14 21:00:47 获取到号码【1723448】的GSD为【福建-福州】
+2021-07-14 21:00:48 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:00:49 {"status":"ok","gid":277191,"msg":"添加成功！"}
+2021-07-14 21:00:49 下次操作: 2021-07-14 21:01:04
+
+2021-07-14 21:01:04 开始第 4 次操作
+
+2021-07-14 21:01:04 开始操作号码 【1723449】
+2021-07-14 21:01:07 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:01:08 查询号码 【1723449】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:01:08 查询号码 【1723449】，GSD为【""】
+2021-07-14 21:01:08 bad
+2021-07-14 21:01:10 CHB 1723449?1626267668 第 1 次 等待 1 秒
+2021-07-14 21:01:11 CHB 1723449?1626267668 第 1 次 获取到号码【1723449】GSD
+2021-07-14 21:01:11 获取到号码【1723449】的GSD为【福建-福州】
+2021-07-14 21:01:13 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:01:14 {"status":"ok","gid":277196,"msg":"添加成功！"}
+2021-07-14 21:01:14 下次操作: 2021-07-14 21:01:24
+
+2021-07-14 21:01:24 开始第 5 次操作
+
+2021-07-14 21:01:24 开始操作号码 【1723450】
+2021-07-14 21:01:25 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:01:26 查询号码 【1723450】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:01:26 查询号码 【1723450】，GSD为【""】
+2021-07-14 21:01:26 bad
+2021-07-14 21:01:28 CHB 1723450?1626267686 第 1 次 等待 1 秒
+2021-07-14 21:01:29 CHB 1723450?1626267686 第 1 次 获取到号码【1723450】GSD
+2021-07-14 21:01:29 获取到号码【1723450】的GSD为【福建-福州】
+2021-07-14 21:01:30 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:01:31 {"status":"ok","gid":277199,"msg":"添加成功！"}
+2021-07-14 21:01:31 下次操作: 2021-07-14 21:01:38
+
+2021-07-14 21:01:38 开始第 6 次操作
+
+2021-07-14 21:01:38 开始操作号码 【1723451】
+2021-07-14 21:01:43 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:01:44 查询号码 【1723451】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:01:44 查询号码 【1723451】，GSD为【""】
+2021-07-14 21:01:44 bad
+2021-07-14 21:01:49 CHB 1723451?1626267704 第 1 次 等待 1 秒
+2021-07-14 21:01:50 CHB 1723451?1626267704 第 1 次 获取到号码【1723451】GSD
+2021-07-14 21:01:50 获取到号码【1723451】的GSD为【福建-福州】
+2021-07-14 21:01:53 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:01:54 {"status":"ok","gid":277201,"msg":"添加成功！"}
+2021-07-14 21:01:54 下次操作: 2021-07-14 21:02:05
+
+2021-07-14 21:02:05 开始第 7 次操作
+
+2021-07-14 21:02:05 开始操作号码 【1723452】
+2021-07-14 21:02:07 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:02:08 查询号码 【1723452】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:02:08 查询号码 【1723452】，GSD为【""】
+2021-07-14 21:02:08 bad
+2021-07-14 21:02:14 CHB 1723452?1626267728 第 1 次 等待 1 秒
+2021-07-14 21:02:15 CHB 1723452?1626267728 第 1 次 获取到号码【1723452】GSD
+2021-07-14 21:02:15 获取到号码【1723452】的GSD为【福建-福州】
+2021-07-14 21:02:17 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:02:18 {"status":"ok","gid":277208,"msg":"添加成功！"}
+2021-07-14 21:02:18 下次操作: 2021-07-14 21:02:33
+
+2021-07-14 21:02:33 开始第 8 次操作
+
+2021-07-14 21:02:33 开始操作号码 【1723453】
+2021-07-14 21:02:52 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:02:53 查询号码 【1723453】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:02:53 查询号码 【1723453】，GSD为【""】
+2021-07-14 21:02:53 bad
+2021-07-14 21:02:55 CHB 1723453?1626267773 第 1 次 等待 1 秒
+2021-07-14 21:02:56 CHB 1723453?1626267773 第 1 次 获取到号码【1723453】GSD
+2021-07-14 21:02:56 获取到号码【1723453】的GSD为【福建-福州】
+2021-07-14 21:03:01 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:03:02 {"status":"ok","gid":277219,"msg":"添加成功！"}
+2021-07-14 21:03:02 下次操作: 2021-07-14 21:03:10
+
+2021-07-14 21:03:10 开始第 9 次操作
+
+2021-07-14 21:03:10 开始操作号码 【1723454】
+2021-07-14 21:03:12 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:03:13 查询号码 【1723454】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:03:13 查询号码 【1723454】，GSD为【""】
+2021-07-14 21:03:13 bad
+2021-07-14 21:03:14 CHB 1723454?1626267793 第 1 次 等待 1 秒
+2021-07-14 21:03:15 CHB 1723454?1626267793 第 1 次 获取到号码【1723454】GSD
+2021-07-14 21:03:15 获取到号码【1723454】的GSD为【福建-福州】
+2021-07-14 21:03:18 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:03:19 {"status":"ok","gid":277225,"msg":"添加成功！"}
+2021-07-14 21:03:19 下次操作: 2021-07-14 21:03:34
+
+2021-07-14 21:03:34 开始第 10 次操作
+
+2021-07-14 21:03:34 开始操作号码 【1723455】
+2021-07-14 21:03:38 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:03:39 查询号码 【1723455】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:03:39 查询号码 【1723455】，GSD为【""】
+2021-07-14 21:03:39 bad
+2021-07-14 21:03:40 CHB 1723455?1626267819 第 1 次 等待 1 秒
+2021-07-14 21:03:41 CHB 1723455?1626267819 第 1 次 获取到号码【1723455】GSD
+2021-07-14 21:03:41 获取到号码【1723455】的GSD为【福建-福州】
+2021-07-14 21:03:45 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:03:46 {"status":"ok","gid":277237,"msg":"添加成功！"}
+2021-07-14 21:03:46 下次操作: 2021-07-14 21:03:52
+
+2021-07-14 21:03:52 开始第 11 次操作
+
+2021-07-14 21:03:52 开始操作号码 【1723456】
+2021-07-14 21:03:57 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:03:58 查询号码 【1723456】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:03:58 查询号码 【1723456】，GSD为【""】
+2021-07-14 21:03:58 bad
+2021-07-14 21:04:00 CHB 1723456?1626267838 第 1 次 等待 1 秒
+2021-07-14 21:04:01 CHB 1723456?1626267838 第 1 次 获取到号码【1723456】GSD
+2021-07-14 21:04:01 获取到号码【1723456】的GSD为【福建-福州】
+2021-07-14 21:04:03 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:04:04 {"status":"ok","gid":277244,"msg":"添加成功！"}
+2021-07-14 21:04:04 下次操作: 2021-07-14 21:04:13
+
+2021-07-14 21:04:13 开始第 12 次操作
+
+2021-07-14 21:04:13 开始操作号码 【1723457】
+2021-07-14 21:04:17 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:04:18 查询号码 【1723457】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:04:18 查询号码 【1723457】，GSD为【""】
+2021-07-14 21:04:18 bad
+2021-07-14 21:04:20 CHB 1723457?1626267858 第 1 次 等待 1 秒
+2021-07-14 21:04:21 CHB 1723457?1626267858 第 1 次 获取到号码【1723457】GSD
+2021-07-14 21:04:21 获取到号码【1723457】的GSD为【福建-福州】
+2021-07-14 21:04:23 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:04:24 {"status":"ok","gid":277246,"msg":"添加成功！"}
+2021-07-14 21:04:24 下次操作: 2021-07-14 21:04:32
+
+2021-07-14 21:04:32 开始第 13 次操作
+
+2021-07-14 21:04:32 开始操作号码 【1723458】
+2021-07-14 21:04:33 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:04:34 查询号码 【1723458】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:04:35 查询号码 【1723458】，GSD为【""】
+2021-07-14 21:04:35 bad
+2021-07-14 21:04:37 CHB 1723458?1626267875 第 1 次 等待 1 秒
+2021-07-14 21:04:38 CHB 1723458?1626267875 第 1 次 获取到号码【1723458】GSD
+2021-07-14 21:04:38 获取到号码【1723458】的GSD为【福建-福州】
+2021-07-14 21:04:39 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:04:40 {"status":"ok","gid":277253,"msg":"添加成功！"}
+2021-07-14 21:04:40 下次操作: 2021-07-14 21:04:58
+
+2021-07-14 21:04:58 开始第 14 次操作
+
+2021-07-14 21:04:58 开始操作号码 【1723459】
+2021-07-14 21:05:02 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:05:03 查询号码 【1723459】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:05:03 查询号码 【1723459】，GSD为【""】
+2021-07-14 21:05:03 bad
+2021-07-14 21:05:09 CHB 1723459?1626267903 第 1 次 等待 1 秒
+2021-07-14 21:05:10 CHB 1723459?1626267903 第 1 次 获取到号码【1723459】GSD
+2021-07-14 21:05:10 获取到号码【1723459】的GSD为【福建-福州】
+2021-07-14 21:05:12 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:05:13 {"status":"ok","gid":277261,"msg":"添加成功！"}
+2021-07-14 21:05:13 下次操作: 2021-07-14 21:05:23
+
+2021-07-14 21:05:23 开始第 15 次操作
+
+2021-07-14 21:05:23 开始操作号码 【1723460】
+2021-07-14 21:05:26 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:05:27 查询号码 【1723460】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:05:28 查询号码 【1723460】，GSD为【""】
+2021-07-14 21:05:28 bad
+2021-07-14 21:05:32 CHB 1723460?1626267928 第 1 次 等待 1 秒
+2021-07-14 21:05:33 CHB 1723460?1626267928 第 1 次 获取到号码【1723460】GSD
+2021-07-14 21:05:33 获取到号码【1723460】的GSD为【福建-福州】
+2021-07-14 21:05:35 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:05:36 {"status":"ok","gid":277268,"msg":"添加成功！"}
+2021-07-14 21:05:36 下次操作: 2021-07-14 21:05:42
+
+2021-07-14 21:05:42 开始第 16 次操作
+
+2021-07-14 21:05:42 开始操作号码 【1723461】
+2021-07-14 21:05:47 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:05:48 查询号码 【1723461】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:05:48 查询号码 【1723461】，GSD为【""】
+2021-07-14 21:05:48 bad
+2021-07-14 21:05:50 CHB 1723461?1626267948 第 1 次 等待 1 秒
+2021-07-14 21:05:51 CHB 1723461?1626267948 第 1 次 获取到号码【1723461】GSD
+2021-07-14 21:05:51 获取到号码【1723461】的GSD为【福建-福州】
+2021-07-14 21:06:04 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:06:05 {"status":"ok","gid":277273,"msg":"添加成功！"}
+2021-07-14 21:06:05 下次操作: 2021-07-14 21:06:14
+
+2021-07-14 21:06:14 开始第 17 次操作
+
+2021-07-14 21:06:14 开始操作号码 【1723462】
+2021-07-14 21:06:18 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:06:19 查询号码 【1723462】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:06:19 查询号码 【1723462】，GSD为【""】
+2021-07-14 21:06:19 bad
+2021-07-14 21:06:20 CHB 1723462?1626267979 第 1 次 等待 1 秒
+2021-07-14 21:06:21 CHB 1723462?1626267979 第 1 次 获取到号码【1723462】GSD
+2021-07-14 21:06:21 获取到号码【1723462】的GSD为【福建-福州】
+2021-07-14 21:06:23 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:06:24 {"status":"ok","gid":277278,"msg":"添加成功！"}
+2021-07-14 21:06:24 下次操作: 2021-07-14 21:06:30
+
+2021-07-14 21:06:30 开始第 18 次操作
+
+2021-07-14 21:06:30 开始操作号码 【1723463】
+2021-07-14 21:06:49 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:06:50 查询号码 【1723463】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:06:50 查询号码 【1723463】，GSD为【""】
+2021-07-14 21:06:50 bad
+2021-07-14 21:07:08 CHB 1723463?1626268010 第 1 次 等待 1 秒
+2021-07-14 21:07:09 CHB 1723463?1626268010 第 1 次 获取到号码【1723463】GSD
+2021-07-14 21:07:09 获取到号码【1723463】的GSD为【福建-福州】
+2021-07-14 21:07:12 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:07:13 {"status":"ok","gid":277288,"msg":"添加成功！"}
+2021-07-14 21:07:13 下次操作: 2021-07-14 21:07:19
+
+2021-07-14 21:07:19 开始第 19 次操作
+
+2021-07-14 21:07:19 开始操作号码 【1723464】
+2021-07-14 21:07:25 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:07:26 查询号码 【1723464】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:07:26 查询号码 【1723464】，GSD为【""】
+2021-07-14 21:07:26 bad
+2021-07-14 21:07:28 CHB 1723464?1626268046 第 1 次 等待 1 秒
+2021-07-14 21:07:29 CHB 1723464?1626268046 第 1 次 获取到号码【1723464】GSD
+2021-07-14 21:07:29 获取到号码【1723464】的GSD为【福建-福州】
+2021-07-14 21:07:32 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:07:33 {"status":"ok","gid":277295,"msg":"添加成功！"}
+2021-07-14 21:07:33 下次操作: 2021-07-14 21:07:44
+
+2021-07-14 21:07:44 开始第 20 次操作
+
+2021-07-14 21:07:44 开始操作号码 【1723465】
+2021-07-14 21:07:47 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:07:48 查询号码 【1723465】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:07:48 查询号码 【1723465】，GSD为【""】
+2021-07-14 21:07:48 bad
+2021-07-14 21:07:59 CHB 1723465?1626268068 第 1 次 等待 1 秒
+2021-07-14 21:08:00 CHB 1723465?1626268068 第 1 次 获取到号码【1723465】GSD
+2021-07-14 21:08:00 获取到号码【1723465】的GSD为【福建-福州】
+2021-07-14 21:08:04 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:08:05 {"status":"ok","gid":277306,"msg":"添加成功！"}
+2021-07-14 21:08:05 下次操作: 2021-07-14 21:08:12
+
+2021-07-14 21:08:12 开始第 21 次操作
+
+2021-07-14 21:08:12 开始操作号码 【1723466】
+2021-07-14 21:08:14 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:08:15 查询号码 【1723466】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:08:16 查询号码 【1723466】，GSD为【""】
+2021-07-14 21:08:16 bad
+2021-07-14 21:08:23 CHB 1723466?1626268096 第 1 次 等待 1 秒
+2021-07-14 21:08:24 CHB 1723466?1626268096 第 1 次 获取到号码【1723466】GSD
+2021-07-14 21:08:24 未获取到号码【1723466】GSD，查号吧 400 错误
+2021-07-14 21:08:24 获取到号码【1723466】的GSD为【-】
+2021-07-14 21:08:25 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:08:26 {"status":"ok","gid":277312,"msg":"添加成功！"}
+2021-07-14 21:08:26 下次操作: 2021-07-14 21:08:39
+
+2021-07-14 21:08:39 开始第 22 次操作
+
+2021-07-14 21:08:39 开始操作号码 【1723467】
+2021-07-14 21:08:40 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:08:41 查询号码 【1723467】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:08:41 查询号码 【1723467】，GSD为【""】
+2021-07-14 21:08:41 bad
+2021-07-14 21:08:44 CHB 1723467?1626268121 第 1 次 等待 1 秒
+2021-07-14 21:08:45 CHB 1723467?1626268121 第 1 次 获取到号码【1723467】GSD
+2021-07-14 21:08:45 获取到号码【1723467】的GSD为【福建-福州】
+2021-07-14 21:08:52 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:08:53 {"status":"ok","gid":277318,"msg":"添加成功！"}
+2021-07-14 21:08:53 下次操作: 2021-07-14 21:09:03
+
+2021-07-14 21:09:03 开始第 23 次操作
+
+2021-07-14 21:09:03 开始操作号码 【1723468】
+2021-07-14 21:09:11 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:09:12 查询号码 【1723468】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:09:12 查询号码 【1723468】，GSD为【""】
+2021-07-14 21:09:12 bad
+2021-07-14 21:09:20 CHB 1723468?1626268152 第 1 次 等待 1 秒
+2021-07-14 21:09:21 CHB 1723468?1626268152 第 1 次 获取到号码【1723468】GSD
+2021-07-14 21:09:21 获取到号码【1723468】的GSD为【福建-福州】
+2021-07-14 21:09:24 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:09:25 {"status":"ok","gid":277324,"msg":"添加成功！"}
+2021-07-14 21:09:25 下次操作: 2021-07-14 21:09:36
+
+2021-07-14 21:09:36 开始第 24 次操作
+
+2021-07-14 21:09:36 开始操作号码 【1723469】
+2021-07-14 21:09:46 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:09:47 查询号码 【1723469】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:09:47 查询号码 【1723469】，GSD为【""】
+2021-07-14 21:09:47 bad
+2021-07-14 21:09:51 CHB 1723469?1626268187 第 1 次 等待 1 秒
+2021-07-14 21:09:52 CHB 1723469?1626268187 第 1 次 获取到号码【1723469】GSD
+2021-07-14 21:09:52 获取到号码【1723469】的GSD为【<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab2e25e610300e</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab2e25e610300e </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>-<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab2e25e610300e</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab2e25e610300e </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>】
+2021-07-14 21:09:54 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:09:55 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request</h2>
+<hr><p>HTTP Error 400. The request is badly formed.</p>
+</BODY></HTML>
+2021-07-14 21:09:55 下次操作: 2021-07-14 21:10:01
+
+2021-07-14 21:10:01 开始第 25 次操作
+
+2021-07-14 21:10:01 开始操作号码 【1723470】
+2021-07-14 21:10:10 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:10:11 查询号码 【1723470】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:10:11 查询号码 【1723470】，GSD为【""】
+2021-07-14 21:10:11 bad
+2021-07-14 21:10:13 CHB 1723470?1626268211 第 1 次 等待 1 秒
+2021-07-14 21:10:14 CHB 1723470?1626268211 第 1 次 获取到号码【1723470】GSD
+2021-07-14 21:10:14 获取到号码【1723470】的GSD为【福建-福州】
+2021-07-14 21:10:20 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:10:21 {"status":"ok","gid":277334,"msg":"添加成功！"}
+2021-07-14 21:10:21 下次操作: 2021-07-14 21:10:34
+
+2021-07-14 21:10:34 开始第 26 次操作
+
+2021-07-14 21:10:34 开始操作号码 【1723471】
+2021-07-14 21:10:35 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:10:36 查询号码 【1723471】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:10:36 查询号码 【1723471】，GSD为【""】
+2021-07-14 21:10:36 bad
+2021-07-14 21:10:42 CHB 1723471?1626268236 第 1 次 等待 1 秒
+2021-07-14 21:10:43 CHB 1723471?1626268236 第 1 次 获取到号码【1723471】GSD
+2021-07-14 21:10:43 获取到号码【1723471】的GSD为【<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab3007a0de3018</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab3007a0de3018 </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>-<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab3007a0de3018</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab3007a0de3018 </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>】
+2021-07-14 21:10:44 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:10:45 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request</h2>
+<hr><p>HTTP Error 400. The request is badly formed.</p>
+</BODY></HTML>
+2021-07-14 21:10:45 下次操作: 2021-07-14 21:11:02
+
+2021-07-14 21:11:02 开始第 27 次操作
+
+2021-07-14 21:11:02 开始操作号码 【1723472】
+2021-07-14 21:11:06 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:11:07 查询号码 【1723472】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:11:07 查询号码 【1723472】，GSD为【""】
+2021-07-14 21:11:07 bad
+2021-07-14 21:11:22 CHB 1723472?1626268267 第 1 次 等待 1 秒
+2021-07-14 21:11:23 CHB 1723472?1626268267 第 1 次 获取到号码【1723472】GSD
+2021-07-14 21:11:23 获取到号码【1723472】的GSD为【<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab314c7c6f301c</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab314c7c6f301c </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>-<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab314c7c6f301c</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab314c7c6f301c </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>】
+2021-07-14 21:11:24 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:11:25 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request</h2>
+<hr><p>HTTP Error 400. The request is badly formed.</p>
+</BODY></HTML>
+2021-07-14 21:11:25 下次操作: 2021-07-14 21:11:36
+
+2021-07-14 21:11:36 开始第 28 次操作
+
+2021-07-14 21:11:36 开始操作号码 【1723473】
+2021-07-14 21:11:37 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:11:38 查询号码 【1723473】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:11:39 查询号码 【1723473】，GSD为【""】
+2021-07-14 21:11:39 bad
+2021-07-14 21:11:52 CHB 1723473?1626268299 第 1 次 等待 1 秒
+2021-07-14 21:11:53 CHB 1723473?1626268299 第 1 次 获取到号码【1723473】GSD
+2021-07-14 21:11:53 获取到号码【1723473】的GSD为【<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab329b91583010</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab329b91583010 </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>-<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab329b91583010</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab329b91583010 </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>】
+2021-07-14 21:11:55 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:11:56 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request</h2>
+<hr><p>HTTP Error 400. The request is badly formed.</p>
+</BODY></HTML>
+2021-07-14 21:11:56 下次操作: 2021-07-14 21:12:02
+
+2021-07-14 21:12:02 开始第 29 次操作
+
+2021-07-14 21:12:02 开始操作号码 【1723474】
+2021-07-14 21:12:05 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:12:06 查询号码 【1723474】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:12:06 查询号码 【1723474】，GSD为【""】
+2021-07-14 21:12:06 bad
+2021-07-14 21:12:38 CHB 1723474?1626268326 第 1 次 等待 1 秒
+2021-07-14 21:12:39 CHB 1723474?1626268326 第 1 次 获取到号码【1723474】GSD
+2021-07-14 21:12:39 获取到号码【1723474】的GSD为【<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab33b4e8f23013</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab33b4e8f23013 </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>-<!DOCTYPE html> <html lang="zh-CN"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>内部错误 | cn.m.chahaoba.com</title> <link href="/.well-known/yunjiasu-cgi/static/css/bootstrap.min.css" rel="stylesheet"> <style type="text/css"> html, body { width: 100%; height: 100%; font-size: 15px; } body { background: #fff; } .btn { padding: 8px 20px; } .btn:hover, .btn:focus { color: #fff; text-decoration: none; } .btn-red { color: #fff; background-color: #247db0; border-color: #247db0; } .err_content { padding-top: 100px; height: 100%; padding-bottom: 60px; } .err_content .err_img { max-width: 100%; height: auto; vertical-align: middle; } .err_content .err_text { height: 100%; } .err_content .err_text h1 { font-size: 40px; color: #333; font-weight: 200; } .err_content .err_text .instruction{ padding-top: 0; } .err_content .err_text p.info { font-size: 18px; padding-bottom: 40px; padding-top: 10px; } .err_content .err_text p { font-size: 18px; color: #777777; line-height: 30px; font-weight: 200; padding: 20px 0; } .err_foot { line-height: 50px; font-size: 14px; } .err_foot p { padding-top: 15px; line-height: 20px; font-weight: 200; color: #333; } .err_foot p span { display: inline-block; max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; } .err_foot p a { color: #333; } .err_foot .navbar-default { background-color: #fcfcfc; border-color: #ececec; } </style> </head> <body> <div class="err_content"> <div class="container"> <div class="col-lg-12 text-center err_text"> <h1><span>Error 5012</span></h1> <p class="instruction">内部错误，连接源站失败</p> <p class="info"> <span>DuEdge Event ID:</span> <span>a4ab33b4e8f23013</span><br> <span>你的IP:</span> <span>20.69.158.231</span> </p> <p>如果您是网站管理员，点击查看<a href="https://su.baidu.com/" target="_blank">如何修复</a>。</p> <a href="#" onclick="document.cookie='yjs_use_ob=0;path=/';window.location.reload();return false;" class="btn btn-red" role="button">刷新重试</a> </div> </div> </div> <div class="err_foot"> <nav class="navbar navbar-default navbar-fixed-bottom" style="height:50px"> <div class="container" style="text-align: center"> <div class="col-lg-12"> <p class="info"> <span>DuEdge Event ID</span> <span>a4ab33b4e8f23013 </span> <span> | </span> <span> 你的IP:</span> <span>20.69.158.231 </span> <span> | </span> <span> 域名信息:</span> <span>cn.m.chahaoba.com</span> </P> </div> <div class="col-lg-4"> <p> <!-- <a href="http://anquan.baidu.com/bbs/forum.php?mod=viewthread&tid=371363&page=1&extra=" target="_blank">帮助支持</a> | <a href="http://anquan.baidu.com/bbs/forum-121-1.html" target="_blank">产品论坛</a> --> </p> </div> </div> </nav> </div> </body> </html>】
+2021-07-14 21:12:41 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:12:42 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request</h2>
+<hr><p>HTTP Error 400. The request is badly formed.</p>
+</BODY></HTML>
+2021-07-14 21:12:42 下次操作: 2021-07-14 21:12:49
+
+2021-07-14 21:12:49 开始第 30 次操作
+
+2021-07-14 21:12:49 开始操作号码 【1723475】
+2021-07-14 21:12:51 GSD getOne 第 1 次 等待 1 秒
+2021-07-14 21:12:52 查询号码 【1723475】，返回信息 {"status":"bad","msg":""}
+2021-07-14 21:12:52 查询号码 【1723475】，GSD为【""】
+2021-07-14 21:12:52 bad
+2021-07-14 21:12:54 CHB 1723475?1626268372 第 1 次 等待 1 秒
+2021-07-14 21:12:55 CHB 1723475?1626268372 第 1 次 获取到号码【1723475】GSD
+2021-07-14 21:12:56 获取到号码【1723475】的GSD为【福建-福州】
+2021-07-14 21:12:57 GSD insert 第 1 次 等待 1 秒
+2021-07-14 21:12:58 {"status":"ok","gid":277351,"msg":"添加成功！"}
+
