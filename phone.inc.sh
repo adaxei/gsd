@@ -1,6 +1,6 @@
 #!/bin/bash
 
-phoneNumLimit=30
+phoneNumLimit=10
 phoneLeft=17
 phoneCenter=2
 phoneOrder="asc"
