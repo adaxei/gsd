@@ -273,9 +273,9 @@ else
     goonGsd
 fi
 rm -f "${phoneG}"
-echo ${numI_next} >${phoneI}
-if [[ ${numI_next} -lt ${phoneNL} ]]; then
-    if [[ ${goonNext} -ne 1 ]]; then
+if [[ ${goonNext} -ne 1 ]]; then
+    echo ${numI_next} >${phoneI}
+    if [[ ${numI_next} -lt ${phoneNL} ]]; then
         numMin=`awk -v x=0.2 -v y=60 'BEGIN{printf "%.0f\n",x*y}'`
         numMax=`awk -v x=0.4 -v y=60 'BEGIN{printf "%.0f\n",x*y}'`
         numRand=$[$RANDOM%$((${numMax}-${numMin}+1))+${numMin}]
